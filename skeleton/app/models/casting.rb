@@ -17,5 +17,4 @@ class Casting < ApplicationRecord
     class_name: :Movie,
     foreign_key: :movie_id,
     primary_key: :id
-
 end
